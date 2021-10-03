@@ -9,4 +9,3 @@ My name is Arthur Gossuin.
  - I love simple - readable - beautiful code. :butterfly:	
  - I love Algorithms. 	:heart_eyes:
  - I like C++ or even C, but Python is so easy that I almost always pick this language... :smiling_face_with_three_hearts:
- - I dislike Java. I dislike Javascript too. :nauseated_face:
