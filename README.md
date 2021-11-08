@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Arthur Gossuin.
+My name is Arthur.
 
 ## About me
 
